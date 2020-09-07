@@ -1,0 +1,1 @@
+C:\Tafe20S2xx\StartFinanceMaster\InstaRichie\Start Finance.csproj;x64
