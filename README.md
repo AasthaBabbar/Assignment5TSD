@@ -1,3 +1,3 @@
-# fifthrepos
-Session 5 merging with conflicts
-This project is to illustrate the merging conflicts with multiple developers
+# Tafe20S201
+StartFinance Application
+The given application has completed the development on one functional area such as Finance maintenance.The new development will include extra functions to maintain the Personal Information, Contact Details, Appointments & Shopping List
